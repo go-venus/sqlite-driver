@@ -1,0 +1,4 @@
+github.com/go-venus/venus v0.0.0-20220321134425-0f330b1d597e h1:8vrT4/9gMQguuz4GME2er2NCsYwEzNKYGEby6jnVTk4=
+github.com/go-venus/venus v0.0.0-20220321134425-0f330b1d597e/go.mod h1:/bwzTn9Trv6JsXlAz69KCLy5ogy5y30JkmaCeE7omag=
+github.com/mattn/go-sqlite3 v1.14.12 h1:TJ1bhYJPV44phC+IMu1u2K/i5RriLTPe+yc68XDJ1Z0=
+github.com/mattn/go-sqlite3 v1.14.12/go.mod h1:NyWgC/yNuGj7Q9rpYnZvas74GogHl5/Z4A/KQRfk6bU=
